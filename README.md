@@ -75,9 +75,7 @@ Toda solicitud de lectura, modificación o guardado de datos se solicita directa
 
 Pasos Necesarios para Ejecutar main.py
 
-Clone o descargue el repositorio en su equipo local.
-
-Asegúrese de contar con Python 3.x instalado.
+Contar con Python 3.x instalado.
 
 Abra una terminal o consola de comandos en la carpeta raíz del proyecto (restaurante_app).
 
