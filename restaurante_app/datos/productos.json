@@ -1,0 +1,14 @@
+[
+  {
+    "id": "P001",
+    "nombre": "Hamburguesa Doble",
+    "precio": 9.99,
+    "categoria": "Platos Fuertes"
+  },
+  {
+    "id": "P002",
+    "nombre": "Jugo Natural de Mora",
+    "precio": 2.5,
+    "categoria": "Bebidas"
+  }
+]
